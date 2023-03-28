@@ -1,11 +1,11 @@
 #include "main.h"
 
-/** PRINT CHAR **/
+/** PRINT CHARACTER **/
 
 /**
  * print_char - Prints a char
  * @types: List a of arguments
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array for print
  * @flags:  Calculates active flags
  * @width: Width
  * @precision: Precision specification

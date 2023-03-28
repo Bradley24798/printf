@@ -4,7 +4,7 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - Printf function
- * @format: format.
+ * @format: is a character string with 0 to 3 directives.
  * Return: Printed chars.
  */
 int _printf(const char *format, ...)
